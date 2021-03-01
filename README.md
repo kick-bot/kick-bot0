@@ -1,2 +1,2 @@
-# kick-bot0
+# kick-bot
 
